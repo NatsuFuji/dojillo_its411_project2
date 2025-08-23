@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626074183185",
+    "project_id": "its411-db007",
+    "storage_bucket": "its411-db007.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626074183185:android:8aaca7b54b2989f06bb3b0",
+        "android_client_info": {
+          "package_name": "com.its411.dojillo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVjMK1K9wkQQMlZUASoctW_2wMJl90vwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

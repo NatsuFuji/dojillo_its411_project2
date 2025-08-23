@@ -12,11 +12,13 @@
       "supportsTablet": true
     },
     "android": {
+      "googleServiceFile": "./google-service.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.dojillo_its411"
     },
     "web": {
       "bundler": "metro",
@@ -24,6 +26,9 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
+      "@react-native-firebase/app",
+      "@react-native-firebase/auth",
+      "@react-native-firebase/crashlytics",
       "expo-router",
       [
         "expo-splash-screen",
