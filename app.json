@@ -12,13 +12,13 @@
       "supportsTablet": true
     },
     "android": {
-      "googleServicesFile": "./google.services.json",
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.anonymous.Project_App"
+      "package": "com.its411.dojillo"
     },
     "web": {
       "bundler": "metro",
