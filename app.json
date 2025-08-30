@@ -1,24 +1,24 @@
 {
   "expo": {
-    "name": "dojillo_its411",
-    "slug": "dojillo_its411",
+    "name": "Project_App",
+    "slug": "Project_App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "dojilloits411",
+    "scheme": "projectapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
     },
     "android": {
-      "googleServiceFile": "./google-service.json",
+      "googleServicesFile": "./google.services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.anonymous.dojillo_its411"
+      "package": "com.anonymous.Project_App"
     },
     "web": {
       "bundler": "metro",
